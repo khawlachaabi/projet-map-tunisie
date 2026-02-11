@@ -23,6 +23,8 @@ Une carte interactive moderne et élégante des 24 régions de la Tunisie, avec 
 - **Animations au survol** avec effet de pulsation
 - **Marqueur spécial** pour la capitale (Tunis)
 - **Hotspot pour Djerba** (île cliquable)
+### 🏠 Écran d'accueil
+![Accueil](Capture/map.png)
 
 ### 💾 Fonctionnalités Avancées
 - **Favoris** : Sauvegarde locale des régions favorites
